@@ -73,11 +73,7 @@ Actual findings depend on the dataset connected to the template; this README doe
 
 ## 📷 Dashboard Preview
 
-Add screenshots of your report here after opening it in Power BI Desktop.
-
-```markdown
-![LPG Consumption Dashboard](images/lpg-dashboard.png)
-```
+Screenshot 2026-03-23 212209.png
 
 To use the preview, create an `images` folder in the repository, add a dashboard screenshot named `lpg-dashboard.png`, and keep the Markdown image path in sync with the filename.
 
