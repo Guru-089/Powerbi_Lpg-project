@@ -71,11 +71,7 @@ The dashboard can be used to investigate questions such as:
 
 Actual findings depend on the dataset connected to the template; this README does not assert specific state rankings or numerical results.
 
-## 📷 Dashboard Preview
 
-Screenshot 2026-03-23 212209.png
-
-To use the preview, create an `images` folder in the repository, add a dashboard screenshot named `lpg-dashboard.png`, and keep the Markdown image path in sync with the filename.
 
 ## ⚠️ Notes
 
